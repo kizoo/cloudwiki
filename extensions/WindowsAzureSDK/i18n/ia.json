@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"windowsazuresdk-desc": "Provide le SDK de [http://phpazure.codeplex.com/ PHPAzure] create per [http://www.realdolmen.com/ REALDOLMEN]."
+}

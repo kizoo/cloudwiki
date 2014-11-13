@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Andriykopanytsia",
+			"Base"
+		]
+	},
+	"windowsazuresdk-desc": "Забезпечує розширення з можливістю використовувати   [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK для PHP]"
+}

@@ -1,0 +1,6 @@
+{
+    "@metadata": {
+        "authors": []
+    },
+    "windowsazuresdk-desc": "Provides extensions with the ability to use the [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK for PHP]"
+}

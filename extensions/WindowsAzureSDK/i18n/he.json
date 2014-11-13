@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Yona b"
+		]
+	},
+	"windowsazuresdk-desc": "מספק הרחבות המאפשרות את השימוש בערכת הפיתוח [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure ל-PHP]"
+}

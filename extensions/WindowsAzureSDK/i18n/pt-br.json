@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cainamarques"
+		]
+	},
+	"windowsazuresdk-desc": "Proporciona às extensões a habilidade de usar o [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK for PHP]"
+}

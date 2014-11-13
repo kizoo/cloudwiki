@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"windowsazuresdk-desc": "Tillhandahåller tillägg med förmågan att använda [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK för PHP]"
+}

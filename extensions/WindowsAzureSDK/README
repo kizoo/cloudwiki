@@ -1,0 +1,20 @@
+This extension allows other extensions to utilise the Windows Azure cloud service.
+
+Installation
+============
+
+1) Install via Composer
+
+Open up a terminal and run the following command in your extension directory (e.g. $IP/extensions/WindowsAzureSDK).
+
+php composer.phar install
+
+This will dowload and install the latest version of the Windows Azure SDK for PHP and its dependencies.
+
+2) Add to LocalSettings.php
+
+Open up your LocalSettings.php file in a text editor and append the following line somewhere at the end of it.
+
+require_once( "$IP/extensions/WindowsAzureSDK/WindowsAzureSDK.php" );
+
+That's it! You can check whether this extension was properly installed by going to the Speical:Version page on your wiki.

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"windowsazuresdk-desc": "Levert uitbreidingen met de mogelijkheid om de [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK voor PHP] te gebruiken"
+}

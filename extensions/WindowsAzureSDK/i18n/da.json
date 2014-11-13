@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Christian List",
+			"Hylle"
+		]
+	},
+	"windowsazuresdk-desc": "Giver adgang til at bruge [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK for PHP]"
+}

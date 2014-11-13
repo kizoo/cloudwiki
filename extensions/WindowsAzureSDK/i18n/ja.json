@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"windowsazuresdk-desc": "[https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK for PHP] を使用できるように拡張する"
+}

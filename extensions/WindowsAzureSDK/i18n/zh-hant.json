@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"windowsazuresdk-desc": "提供擴展與使用[https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK for PHP]的能力"
+}

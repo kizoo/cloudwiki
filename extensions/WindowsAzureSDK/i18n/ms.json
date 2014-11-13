@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia"
+		]
+	},
+	"windowsazuresdk-desc": "Menyediakan ekstensi dengan kebolehan untuk menggunakan [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK untuk PHP]"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"windowsazuresdk-desc": "Ergänzt Erweiterungen, die das [https://github.com/WindowsAzure/azure-sdk-for-php Windows-Azure-SDK für PHP] verwenden können"
+}

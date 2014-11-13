@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"windowsazuresdk-desc": "Proporciona estensiones con capacidá pa usar [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK pa PHP]"
+}

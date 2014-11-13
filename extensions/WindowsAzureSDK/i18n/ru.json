@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"windowsazuresdk-desc": "Предоставляет расширения, способные использовать [https://github.com/WindowsAzure/azure-sdk-for-php Windows Azure SDK для PHP]"
+}
