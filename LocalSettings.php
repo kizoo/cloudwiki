@@ -128,7 +128,7 @@ require_once("$IP/extensions/WindowsAzureStorage/WindowsAzureStorage.php");
 
 // extensions by Jaewoo
 //require_once("$IP/extensions/CharInsert/CharInsert.php");
-//require_once("$IP/extensions/SyntaxHighlight_GeSHi/SyntaxHighlight_GeSHi.php");
+require_once("$IP/extensions/SyntaxHighlight_GeSHi/SyntaxHighlight_GeSHi.php");
 require_once("$IP/extensions/Cite/Cite.php");
 $wgCiteEnablePopups = true;
 //
