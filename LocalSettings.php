@@ -197,8 +197,8 @@ $wgImgAuthPublicTest = false;
 //$wgFileExtensions[] = 'mp3';
 //$wgFileExtensions[] = 'svg';
 
-//$wgExternalLinkTarget = '_blank'; // 링크 누르면 새창으로
-//$wgAllowExternalImages = true;
+$wgExternalLinkTarget = '_blank'; // 링크 누르면 새창으로
+$wgAllowExternalImages = true;
 
 $wgGroupPermissions['*']['createaccount'] = false;
 $wgGroupPermissions['*']['edit'] = false;
