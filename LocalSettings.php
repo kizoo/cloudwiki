@@ -127,7 +127,7 @@ require_once("$IP/extensions/WindowsAzureSDK/WindowsAzureSDK.php");
 require_once("$IP/extensions/WindowsAzureStorage/WindowsAzureStorage.php");
 
 // extensions by Jaewoo
-require_once("$IP/extensions/CharInsert/CharInsert.php");
+//require_once("$IP/extensions/CharInsert/CharInsert.php"); // error - see the php_errors_CharInsertExtension.log file  
 require_once("$IP/extensions/SyntaxHighlight_GeSHi/SyntaxHighlight_GeSHi.php");
 require_once("$IP/extensions/Cite/Cite.php");
 $wgCiteEnablePopups = true;
