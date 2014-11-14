@@ -200,6 +200,6 @@ $wgImgAuthPublicTest = false;
 //$wgExternalLinkTarget = '_blank'; // 링크 누르면 새창으로
 //$wgAllowExternalImages = true;
 
-//$wgGroupPermissions['*']['createaccount'] = false;
-//$wgGroupPermissions['*']['edit'] = false;
+$wgGroupPermissions['*']['createaccount'] = false;
+$wgGroupPermissions['*']['edit'] = false;
 
